@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **Find nearest OPT's agency webpage**
+- 👯 I’m looking to collaborate on **MelaneSim**
 
 - 📝 Sometimes i write articles on [https://dev.to/spewq](https://dev.to/spewq)
 
