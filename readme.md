@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kim</h1>
-<h3 align="center">A passionate frontend developer from New-Caledonia</h3>
+<h3 align="center">A passionate developer from New-Caledonia</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **MelaneSim**
 
